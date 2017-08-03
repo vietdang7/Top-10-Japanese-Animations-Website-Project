@@ -49,13 +49,33 @@ fresh_tomatoes.open_movies_page(animations)
 ## Why I create this project?
 This is one of projects of Full Stack Udacity Nanodegree. Main reason is to evaluate the skills I have learnt so far.
 
-## Installation
-breifly instruction for installation
+## Getting Started
+### Prerequisites
+You need to have `Python` on your Mac or PC (In this project I am using Python 2.7.11)
+
+It is also good to have code editor like **Atom** or **Sublime**
+
+### Installation
+Clone this project (Using `git`command: `git clone https://github.com/vietdang7/Top-10-Japanese-Animations-Website-Project.git` or through your GitDesktop application)
 
 ## Testing
-How steps of testing
+1. Open your `Python`IDLE
+2. Open file `entertainment_center.py`
+3. Run the module: `Run/Run the module`
 
-## Contributors
+A website will be generated based on your `Python` data structure and stored in the same project folder
+
+## Modification
+You can change or add more animation instance in `entertainment_center.py`
+
+## Built With
+- Boostrap Framework
+- Python
+
+## Contribution
+If you want to make contribution for this project, feel to `fork` this project and make `pull request`
 
 ## License
 
+- Copyright of fresh_tomatoes.py is belong to [Udacity](https://github.com/udacity/ud036_StarterCode).
+- This project is licensed under the MIT license
