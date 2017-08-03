@@ -73,7 +73,7 @@ You can change or add more animation instance in `entertainment_center.py`
 - Python
 
 ## Contribution
-If you want to make contribution for this project, feel to `fork` this project and make `pull request`
+If you want to make contribution for this project, feel free to `fork` this project and make `pull request`
 
 ## License
 
