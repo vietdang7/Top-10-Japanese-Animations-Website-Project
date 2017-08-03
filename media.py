@@ -1,5 +1,5 @@
 # Import webbrowser to use open()
-import webbbrowser
+import webbrowser
 
 # Create class Animation - follow Google guide
 class Animation():
