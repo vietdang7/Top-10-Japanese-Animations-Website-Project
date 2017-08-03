@@ -8,7 +8,7 @@ spirited_away = media.Animation("Spirited Away",
 
 akira = media.Animation("Akira",
                         "https://s-media-cache-ak0.pinimg.com/736x/60/81/5e/60815e5067ce8be81c8297655abdd019--akira-film-akira-poster.jpg",
-                        "https://www.youtube.com/watch?v=A2Jxx1EMcJo")
+                        "https://www.youtube.com/watch?v=pC6Qk5XxGIY")
 
 princess_mononoke = media.Animation("Princess Mononoke",
                                     "http://img12.deviantart.net/ee3c/i/2016/093/e/8/princess_mononoke__alternative_movie_poster_by_marioredsigns-d9xm2lk.jpg",
