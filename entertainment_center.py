@@ -10,7 +10,7 @@ akira = media.Animation("Akira",
                         "https://s-media-cache-ak0.pinimg.com/736x/60/81/5e/60815e5067ce8be81c8297655abdd019--akira-film-akira-poster.jpg",
                         "https://www.youtube.com/watch?v=A2Jxx1EMcJo")
 
-princess_mononoko = media.Animation("Princess Mononoko",
+princess_mononoke = media.Animation("Princess Mononoke",
                                     "http://img12.deviantart.net/ee3c/i/2016/093/e/8/princess_mononoke__alternative_movie_poster_by_marioredsigns-d9xm2lk.jpg",
                                     "https://www.youtube.com/watch?v=4OiMOHRDs14")
 
@@ -41,3 +41,10 @@ the_animatrix = media.Animation("The Animatrix",
 grave_of_fire_flies = media.Animation("Grave of fire flies",
                                       "http://img.moviepostershop.com/grave-of-the-fireflies-movie-poster-1988-1020773661.jpg",
                                       "https://www.youtube.com/watch?v=4vPeTSRd580")
+
+# Add animations to an array
+animations = [spirited_away, akira, princess_mononoke, porco_rosso, castle_in_the_sky,
+              ponyo, howls_moving_castle, my_neighbor_totoro, the_animatrix, grave_of_fire_flies]
+
+# Generate website by calling open_movies_page()
+fresh_tomatoes.open_movies_page(animations)
