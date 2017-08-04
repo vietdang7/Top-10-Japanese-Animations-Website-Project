@@ -66,11 +66,14 @@ Clone this project (Using `git`command: `git clone https://github.com/vietdang7/
 A website will be generated based on your `Python` data structure and stored in the same project folder
 
 ## Modification
-You can change or add more animation instance in `entertainment_center.py`
+You can change or add more animation instances in `entertainment_center.py`
 
 ## Built With
 - Boostrap Framework
 - Python
+
+## Troubleshooting
+If you change or create your own instance variable's name in `media.py`, also remember to update that name in `fresh_tomatoes.py` to prevent undefined error.
 
 ## Contribution
 If you want to make contribution for this project, feel free to `fork` this project and make `pull request`
