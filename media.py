@@ -1,15 +1,14 @@
 # Import webbrowser to use open()
 import webbrowser
 
+
 # Create class Animation - follow Google guide
 class Animation():
     """This class provides structure to store Japanese animations information
-
     Attributes:
         title (string): store title of the animation
         poster_image_url: store link to poster of the animation
         trailer_youtube_url: store Youtube link of the animation's trailer
-    
     """
 
     # Start __init__
