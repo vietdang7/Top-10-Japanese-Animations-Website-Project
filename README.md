@@ -71,6 +71,8 @@ You can change or add more animation instances in `entertainment_center.py`
 ## Built With
 - Boostrap Framework
 - Python
+- Javascript
+- jQuery
 
 ## Troubleshooting
 If you change or create your own instance variable's name in `media.py`, also remember to update that name in `fresh_tomatoes.py` to prevent undefined error.
